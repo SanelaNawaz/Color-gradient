@@ -1,0 +1,59 @@
+h1{
+  text-align: center}
+  ul.three{
+    display: flex;
+    padding: 2;
+    justify-content: space-between;
+    align-items: center
+  }
+  
+  h2{
+    height: 90%;
+    width: 100%;
+    padding: 2;
+  }
+  h2{
+    border: 10px solid #fff;
+    margin: 10px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to right,lightgreen,grey)
+  }
+  div{
+    border: 2px solid violet;
+    width: 60%;
+    height: 400px;
+    margin: 10px;
+    padding: 2;
+    }
+    div.one{
+      background-color: mediumpurple
+    }
+    div.two{
+      background-color: hotpink
+    }
+    div.three{
+     background-color: plum
+    }
+    div.box{
+      display: flex;
+      height: 100%;
+      width: 100%;
+    }
+li{
+   list-style-type: disc;
+   list-style-position: outside;
+   margin: 10px;
+  }
+  ul.two{
+ width: 150px
+  }
+  h3{
+    text-align: center;
+    padding: 2;
+    text-decoration-style: none
+  }
+  p{
+    text-align: left;
+    padding: 2px;
+   }
